@@ -1,4 +1,4 @@
-package buildtime
+package buildtimes
 
 /*
 const char* utils_build_time(void)
